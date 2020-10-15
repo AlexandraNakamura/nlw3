@@ -3,8 +3,6 @@
 <h3 align="center">[🚧  Em construção...  🚧]</h3>
 
 
----
-
 
 
 
@@ -28,8 +26,6 @@ O objetivo do projeto é presta assistência a orfanatos, que tenha crianças qu
 "Leve felicidade para o mundo!" 😊 Rocketseat.
 <br><br>
 
----
-<br>
 
 ## 📅 Cronograma
 🚧
@@ -39,7 +35,6 @@ O objetivo do projeto é presta assistência a orfanatos, que tenha crianças qu
 <input type="checkbox" disabled/> 4º Dia: Até 2 anos em 2 meses 15/10 <br> 🚧
 <input type="checkbox" disabled/> 5º Dia: Milha extra 16/10<br><br> 
 
----
 <br>
 
 ## 🚀 Tecnologias
@@ -49,9 +44,6 @@ O objetivo do projeto é presta assistência a orfanatos, que tenha crianças qu
 - [HTML5]
 - [CSS3]
 
-<br>
-
----
 
 <br>
 
@@ -69,9 +61,6 @@ Para mais detalhes do layout, é só acessar [Figma](https://www.figma.com/file/
 <br>
 
 
-----
-
-<br>
 
 ## 💪 Como contribuir no projeto
 Faça um fork do projeto.
@@ -81,9 +70,6 @@ Envie as suas alterações: git push origin my-feature
 
 <br>
 
---- 
-
-<br>
 
 ## Autora
 <br>
@@ -98,8 +84,7 @@ Envie as suas alterações: git push origin my-feature
 <br>
 <br>
 
----
-<br>
+
 
 ## 📝 Licença
 
